@@ -1,0 +1,7 @@
+README.md
+setup.py
+DemoProject1989.egg-info/PKG-INFO
+DemoProject1989.egg-info/SOURCES.txt
+DemoProject1989.egg-info/dependency_links.txt
+DemoProject1989.egg-info/requires.txt
+DemoProject1989.egg-info/top_level.txt
